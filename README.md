@@ -37,3 +37,5 @@ npx sourcey build -o dist
 Deployment is the GitHub Actions workflow in `.github/workflows/docs.yml`
 (Settings → Pages → Source: GitHub Actions), following Sourcey's own
 [deploying guide](https://github.com/sourcey/sourcey/blob/main/docs/deploying.md).
+
+Live reference: https://gin-sourcey-docs.github.io/gin-sourcey-docs/introduction
