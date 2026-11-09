@@ -1,0 +1,1 @@
+{"dependencies":{"sourcey":"3.9.5"},"description":"Sourcey-generated API reference for gin-gonic/gin, built from a pinned upstream commit.","engines":{"node":">=22"},"name":"gin-sourcey-docs","private":true,"scripts":{"build":"sourcey build -o dist"},"version":"1.0.0"}
